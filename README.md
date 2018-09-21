@@ -1,3 +1,3 @@
-# Customer Segments Analyses
+# Customer Segments Analysis
 
 
